@@ -42,5 +42,6 @@ Me interesa el desarrollo de software, especialmente en **Python, SQL y TypeScri
 ---
 
 ## Contacto
-- **Email**: juancuzmora26@gmail.com  
+- **Email**: juancruzmora26@gmail.com  
 - **LinkedIn**: [linkedin.com/in/juan-cruz-mora-9b8332233](https://www.linkedin.com/in/juan-cruz-mora-9b8332233/)  
+
